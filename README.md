@@ -1,2 +1,2 @@
 # SistemaAcademico_AS
-Sistema academico realizado en Oracle como SGBD y lenguaje JAVA
+Sistema academico desarrollado en SQL Server 2022 y Visual Studio c#
